@@ -1,5 +1,5 @@
 # Heavy_Metal_Indicies_evaluation-Lapite-and-Awotan-dumpsite-Ibadan-
-Production-grade Python toolkit for assessing heavy metal contamination in water systems using six internationally recognized pollution indices (CF, Cd, PLI, Igeo, EF, RI). Implements WHO/BIS standards
+Production-grade Python toolkit for assessing heavy metal contamination in water systems using internationally recognized pollution indices (CF, Cd, PLI, Igeo, EF, RI), Hydrogeochemical plots and GIS mapping
 Heavy Metal Pollution Index Toolkit
 A comprehensive environmental geochemistry framework for assessing heavy metal contamination in water systems using multi-index pollution assessment.
  
